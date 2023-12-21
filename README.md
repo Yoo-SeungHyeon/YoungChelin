@@ -1,2 +1,3 @@
-# YoungChelin
-영남대학교 / 소프트웨어공학 수업 / 조별과제 / 맛식(맛있는음식) 평가하고 추천해주는 프로그램
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e84eaefb2d8e7d33d8b53d79090201e3bd5f4a12923d43d9253defa8e0bca67
+size 146

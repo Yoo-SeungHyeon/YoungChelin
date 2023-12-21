@@ -1,0 +1,28 @@
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+spring.mail.username=ehddbs452100@yu.ac.kr
+spring.mail.password=vhrsmivuhzrwcdpm
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.url=jdbc:mysql://localhost:3306/young_cheline?characterEncoding=UTF-8&serverTimezone=UTC
+spring.datasource.username=root
+spring.datasource.password=kim2580mi
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.format_sql=true
+
+secretkey=thvmxmdnpdjrhdgkrrlarlfghrlaehddbsdbtmdgusdlwodnjsgjdudwns
+server.port=8080
+
+cloud.aws.credentials.access-key=AKIA3IV73HJFRA3CIQVS
+cloud.aws.credentials.secret-key=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
+cloud.aws.s3.bucket=youngcheline
+cloud.aws.region.static=ap-northeast-2
+cloud.aws.stack.auto-=false
+
+spring.servlet.multipart.max-file-size: 5MB
+spring.servlet.multipart.max-request-size: 5MB
+
+default_profile=https://youngcheline.s3.ap-northeast-2.amazonaws.com/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.jpeg

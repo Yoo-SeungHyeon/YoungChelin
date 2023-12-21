@@ -1,0 +1,32 @@
+taste = 4
+
+cleaning = 4
+service = 4
+plating = 4
+price = 5
+
+0couple = 2
+1family = 2
+2solo = 2
+3drink = 2
+4friend = 2
+
+---------------------
+evaluate_table
+---------------------
+menu_id
+time
+user_name
+cleaning*
+couple*
+drink*
+family*
+friend*
+number
+plating*
+price*
+restaurant_id
+service*
+solo*
+taste*
+url

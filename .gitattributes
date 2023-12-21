@@ -1,0 +1,5 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+Young-Chelin_Analyze.ipynb filter=lfs diff=lfs merge=lfs -text
+[YoungCheline][TEST].zip filter=lfs diff=lfs merge=lfs -text
+young_cheline_db_latest.zip filter=lfs diff=lfs merge=lfs -text
+소프트웨어공학 filter=lfs diff=lfs merge=lfs -text
